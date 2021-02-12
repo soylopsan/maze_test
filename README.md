@@ -1,0 +1,2 @@
+# maze_test
+pytest
