@@ -1,2 +1,0 @@
-# maze_test
-pytest
